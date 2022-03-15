@@ -1,0 +1,44 @@
+C:\Users\ASUS\Documents\Raffi\SEMESTER 6\PBKK A\Tugas 5\FullScreenAppDemo\FullScreenAppDemo\bin\Debug\FullScreenAppDemo.exe.config
+C:\Users\ASUS\Documents\Raffi\SEMESTER 6\PBKK A\Tugas 5\FullScreenAppDemo\FullScreenAppDemo\bin\Debug\FullScreenAppDemo.exe
+C:\Users\ASUS\Documents\Raffi\SEMESTER 6\PBKK A\Tugas 5\FullScreenAppDemo\FullScreenAppDemo\bin\Debug\FullScreenAppDemo.pdb
+C:\Users\ASUS\Documents\Raffi\SEMESTER 6\PBKK A\Tugas 5\FullScreenAppDemo\FullScreenAppDemo\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\Documents\Raffi\SEMESTER 6\PBKK A\Tugas 5\FullScreenAppDemo\FullScreenAppDemo\obj\Debug\FullScreenAppDemo.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Raffi\SEMESTER 6\PBKK A\Tugas 5\FullScreenAppDemo\FullScreenAppDemo\obj\Debug\FullScreenAppDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\Raffi\SEMESTER 6\PBKK A\Tugas 5\FullScreenAppDemo\FullScreenAppDemo\obj\Debug\FullScreenAppDemo.Form1.resources
+C:\Users\ASUS\Documents\Raffi\SEMESTER 6\PBKK A\Tugas 5\FullScreenAppDemo\FullScreenAppDemo\obj\Debug\FullScreenAppDemo.Properties.Resources.resources
+C:\Users\ASUS\Documents\Raffi\SEMESTER 6\PBKK A\Tugas 5\FullScreenAppDemo\FullScreenAppDemo\obj\Debug\FullScreenAppDemo.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Raffi\SEMESTER 6\PBKK A\Tugas 5\FullScreenAppDemo\FullScreenAppDemo\obj\Debug\FullScreenAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Raffi\SEMESTER 6\PBKK A\Tugas 5\FullScreenAppDemo\FullScreenAppDemo\obj\Debug\FullScreenAppDemo.csproj.CopyComplete
+C:\Users\ASUS\Documents\Raffi\SEMESTER 6\PBKK A\Tugas 5\FullScreenAppDemo\FullScreenAppDemo\obj\Debug\FullScreenAppDemo.exe
+C:\Users\ASUS\Documents\Raffi\SEMESTER 6\PBKK A\Tugas 5\FullScreenAppDemo\FullScreenAppDemo\obj\Debug\FullScreenAppDemo.pdb
+C:\Users\ASUS\Documents\Raffi\SEMESTER 6\PBKK A\Tugas 5\FullScreenAppDemo\FullScreenAppDemo\bin\Debug\LiveCharts.dll
+C:\Users\ASUS\Documents\Raffi\SEMESTER 6\PBKK A\Tugas 5\FullScreenAppDemo\FullScreenAppDemo\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\ASUS\Documents\Raffi\SEMESTER 6\PBKK A\Tugas 5\FullScreenAppDemo\FullScreenAppDemo\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ASUS\Documents\Raffi\SEMESTER 6\PBKK A\Tugas 5\FullScreenAppDemo\FullScreenAppDemo\bin\Debug\LiveCharts.pdb
+C:\Users\ASUS\Documents\Raffi\SEMESTER 6\PBKK A\Tugas 5\FullScreenAppDemo\FullScreenAppDemo\bin\Debug\LiveCharts.xml
+C:\Users\ASUS\Documents\Raffi\SEMESTER 6\PBKK A\Tugas 5\FullScreenAppDemo\FullScreenAppDemo\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\ASUS\Documents\Raffi\SEMESTER 6\PBKK A\Tugas 5\FullScreenAppDemo\FullScreenAppDemo\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ASUS\Documents\Raffi\SEMESTER 6\PBKK A\Tugas 5\FullScreenAppDemo\FullScreenAppDemo\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ASUS\Documents\Raffi\SEMESTER 6\PBKK A\Tugas 5\FullScreenAppDemo\FullScreenAppDemo\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ROG\Desktop\TUGAS\smt6\Tugas5PBKK-main\FullScreenAppDemo\bin\Debug\FullScreenAppDemo.exe.config
+C:\Users\ROG\Desktop\TUGAS\smt6\Tugas5PBKK-main\FullScreenAppDemo\bin\Debug\FullScreenAppDemo.exe
+C:\Users\ROG\Desktop\TUGAS\smt6\Tugas5PBKK-main\FullScreenAppDemo\bin\Debug\FullScreenAppDemo.pdb
+C:\Users\ROG\Desktop\TUGAS\smt6\Tugas5PBKK-main\FullScreenAppDemo\bin\Debug\Guna.UI2.dll
+C:\Users\ROG\Desktop\TUGAS\smt6\Tugas5PBKK-main\FullScreenAppDemo\bin\Debug\LiveCharts.dll
+C:\Users\ROG\Desktop\TUGAS\smt6\Tugas5PBKK-main\FullScreenAppDemo\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\ROG\Desktop\TUGAS\smt6\Tugas5PBKK-main\FullScreenAppDemo\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ROG\Desktop\TUGAS\smt6\Tugas5PBKK-main\FullScreenAppDemo\bin\Debug\LiveCharts.pdb
+C:\Users\ROG\Desktop\TUGAS\smt6\Tugas5PBKK-main\FullScreenAppDemo\bin\Debug\LiveCharts.xml
+C:\Users\ROG\Desktop\TUGAS\smt6\Tugas5PBKK-main\FullScreenAppDemo\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\ROG\Desktop\TUGAS\smt6\Tugas5PBKK-main\FullScreenAppDemo\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ROG\Desktop\TUGAS\smt6\Tugas5PBKK-main\FullScreenAppDemo\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ROG\Desktop\TUGAS\smt6\Tugas5PBKK-main\FullScreenAppDemo\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ROG\Desktop\TUGAS\smt6\Tugas5PBKK-main\FullScreenAppDemo\obj\Debug\FullScreenAppDemo.csproj.AssemblyReference.cache
+C:\Users\ROG\Desktop\TUGAS\smt6\Tugas5PBKK-main\FullScreenAppDemo\obj\Debug\FullScreenAppDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ROG\Desktop\TUGAS\smt6\Tugas5PBKK-main\FullScreenAppDemo\obj\Debug\FullScreenAppDemo.Form1.resources
+C:\Users\ROG\Desktop\TUGAS\smt6\Tugas5PBKK-main\FullScreenAppDemo\obj\Debug\FullScreenAppDemo.Properties.Resources.resources
+C:\Users\ROG\Desktop\TUGAS\smt6\Tugas5PBKK-main\FullScreenAppDemo\obj\Debug\FullScreenAppDemo.csproj.GenerateResource.cache
+C:\Users\ROG\Desktop\TUGAS\smt6\Tugas5PBKK-main\FullScreenAppDemo\obj\Debug\FullScreenAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\TUGAS\smt6\Tugas5PBKK-main\FullScreenAppDemo\obj\Debug\FullScreenAppDemo.csproj.CopyComplete
+C:\Users\ROG\Desktop\TUGAS\smt6\Tugas5PBKK-main\FullScreenAppDemo\obj\Debug\FullScreenAppDemo.exe
+C:\Users\ROG\Desktop\TUGAS\smt6\Tugas5PBKK-main\FullScreenAppDemo\obj\Debug\FullScreenAppDemo.pdb
